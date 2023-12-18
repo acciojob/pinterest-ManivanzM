@@ -8,7 +8,7 @@
 #image>img{
 	width:300px;
 	height:150px;
-	objest-fit:cover;
+	object-fit:cover;
 }
 #content{
 	height:150px;
